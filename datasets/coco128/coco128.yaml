@@ -34,8 +34,21 @@ names:
   16: monster_up
   17: monster_down
   18: gold
-  19: urgent
+  19: face
   20: done1
+  21: gold1
+  22: jiamaodun
+  23: cailiao
+  24: luyanhe
+  25: equip_white
+  26: jinlv
+  27: equip_purple
+  28: huizhang
+  29: equip_yellow
+  30: yinbi
+  31: duihuancailiao
+  32: suipian
+  33: urgent1
 
 
 

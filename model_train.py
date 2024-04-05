@@ -15,7 +15,7 @@ def running():
     # model = YOLO('yolov8n.pt')
 
     # Train the model using the 'coco128.yaml' dataset for 3 epochs
-    results = model.train(data='coco128.yaml', epochs=4000, patience=4000, batch=-1, workers=10, imgsz=640)
+    results = model.train(data='coco128.yaml', epochs=8000, patience=8000, batch=-1, workers=16, imgsz=640)
 
     # # Evaluate the model's performance on the validation set
     # results = model.val()
